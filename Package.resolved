@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Trap",
+        "repositoryURL": "https://github.com/alexito4/Trap.git",
+        "state": {
+          "branch": null,
+          "revision": "ea4206208dbe5681fa005afa41adf6f0d855bf77",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "WebMIDIKit",
+        "repositoryURL": "https://github.com/adamnemecek/WebMIDIKit.git",
+        "state": {
+          "branch": null,
+          "revision": "b40e74e47f34ecba4c4e7c60f9c56f2e208b0031",
+          "version": "1.0.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
